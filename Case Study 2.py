@@ -24,7 +24,14 @@ for i in a:
 
 
 #5:Please   write   a   program   which accepts  a   string   from   console   and   print   the characters that have even indexes
-string = input("Please enter your input")
+'''string = input("Please enter your input")
 for i in string:
     if (string.index(i))%2==0:
-        print(i)
+        print(i)'''
+
+#6:Please write a program which accepts a string from console and print it in reverse order
+'''string= input("Please Enter your input")
+rev=string[::-1]
+print(rev)'''
+
+#7:Please write a program which count and print the numbers of each character in a string input by console
